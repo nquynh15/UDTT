@@ -1,0 +1,10 @@
+Đề 1 
+Câu 1: cho xâu s in ra số lượng kí tự in hoa xâu
+Câu 2: cho danh sách n đồ chơi giá trị và kích thước 
+Dùng tham lam đêm số lượng đồ chơi mua đc ít tiền hơn m
+Quy hoạch động chọn ra để đc giá trị lớn nhất với tổng kích thước k quá s
+Đề 2
+Câu 1: đệ quy tính tổng các số chia hết cho k
+Câu 2: n điện thoại với mô tả, giá
+Với m tham lam tính số điện thoại có thể mua k vượt quá m
+Dùng boyer để in ra điện thoại ram16gb
